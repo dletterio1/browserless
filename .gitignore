@@ -29,3 +29,4 @@ coverage
 
 # Dev Files
 *.env*
+config.bat
